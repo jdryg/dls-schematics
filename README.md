@@ -10,6 +10,6 @@ NOTE: All schematics in this repo require DLS v0.4 or greater (.sch version 1.1)
 
 ## <a name="install"></a>Installation instructions
 1. Download a copy of the schematic you are interested in and place it in the following folder:  
-`%APPDATA\DLS\schematics`
+`%APPDATA%\DLS\schematics`
 2. Start DLS. You can load the new schematic via the `Load Schematic` button on the main toolbar.
 
