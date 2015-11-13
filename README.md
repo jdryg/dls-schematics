@@ -8,6 +8,7 @@ NOTE: All schematics in this repo require DLS v0.4 or greater (.sch version 1.1)
 * [Installation instructions](#install)
 * [1-bit Multi-input Gates](1-bit%20Multi-input%20Gates)
 * [2-bit Gates](2-bit%20Gates)
+* [Decoders](Decoders)
 * [Memory](Memory)
 * [Misc](Misc)
 
