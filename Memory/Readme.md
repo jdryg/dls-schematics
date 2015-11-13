@@ -1,4 +1,4 @@
-Memory components (latches and registers). Note that all registers use the Rising Edge Detector from the Misc section.
+Memory components (latches and registers). Note that all registers use the [Rising Edge Detector](https://github.com/jdryg/dls-schematics/tree/master/Misc#rising_edge) from the Misc category.
 
 ## Table of contents
 * [SR Latch (Active Low)](#sr_latch_al)
