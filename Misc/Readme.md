@@ -12,7 +12,7 @@ This circuit generates a pulse in the output, every time the clock input goes fr
 
 | t | 1st NOT | 2nd NOT | 3rd NOT | AND A | AND B | Output |
 |---|---------|---------|---------|-------|-------|--------|
-| * | 0 | 1 | 0 | 1 | 0 | 0 |
+| * | 0 | 1 | 0 | 0 | 0 | 0 |
 | 0 | 1 | 1 | 0 | 1 | 1 | 1 |
 | 1 | 1 | 0 | 0 | 1 | 1 | 1 |
 | 2 | 1 | 0 | 1 | 1 | 1 | 1 |
