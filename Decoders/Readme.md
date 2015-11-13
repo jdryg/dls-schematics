@@ -1,7 +1,8 @@
 Decoders are circuits which convert a N-bit input signal into 2<sup>N</sup> 1-bit output signals. Only one of the output signals will be HIGH (1) for any given input value. If the i-th output is 1, it means that the input had a value of `i`.
 
-**NOTE**: 
-1. All the circuits in this category use components from the [1-bit Multi-input Gates](https://github.com/jdryg/dls-schematics/tree/master/1-bit%20Multi-input%20Gates) category.
+**NOTES**
+
+1. Some of the circuits in this category use components from the [1-bit Multi-input Gates](https://github.com/jdryg/dls-schematics/tree/master/1-bit%20Multi-input%20Gates) category.
 2. Since the outputs from each circuit are 2<sup>N</sup> independent signals, I could have used 2<sup>N</sup> 1-bit output ports. I decided to use a normal 2<sup>N</sup>-bit output port. When you componentize the circuits below, the generated component will have 2<sup>N</sup> output pins, since the output port is not a bus.
 
 ## Table of contents
