@@ -2,6 +2,9 @@ Miscellaneous/helper components which do not fit in any other category.
 
 ## Table of contents
 * [Rising Edge Detector](#rising_edge)
+* [1-to-2 Replicator](#1to2_replicator)
+* [1-to-4 Replicator](#1to4_replicator)
+* [1-to-8 Replicator](#1to8_replicator)
 
 ## Schematics
 
@@ -19,3 +22,15 @@ This circuit generates a pulse in the output, every time the clock input goes fr
 | 3 | 1     | 0     | 1     | 1     | **0** | **0** |
 
 ![Rising Edge Detector](images/rising_edge.png "Rising Edge Detector")
+
+### <a name="1to2_replicator"></a>1-to-2 Replicator
+[Schematic](1-to-2%20Replicator.sch)
+![1-to-2 Replicator](images/1to2_replicator.png "1-to-2 Replicator")
+
+### <a name="1to4_replicator"></a>1-to-4 Replicator
+[Schematic](1-to-4%20Replicator.sch)
+![1-to-4 Replicator](images/1to4_replicator.png "1-to-4 Replicator")
+
+### <a name="1to8_replicator"></a>1-to-8 Replicator
+[Schematic](1-to-8%20Replicator.sch)
+![1-to-8 Replicator](images/1to8_replicator.png "1-to-8 Replicator")
