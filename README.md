@@ -11,6 +11,7 @@ NOTE: All schematics in this repo require DLS v0.4 or greater (.sch version 1.1)
   * [2-bit Gates](2-bit%20Gates/Readme.md)
   * [Decoders](Decoders/Readme.md)
   * [Multiplexers](Multiplexers/Readme.md)
+  * [Arithmetic](Arithmetic/Readme.md)
   * [Memory](Memory/Readme.md)
   * [Misc](Misc/Readme.md)
 
