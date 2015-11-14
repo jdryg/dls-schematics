@@ -7,12 +7,12 @@ NOTE: All schematics in this repo require DLS v0.4 or greater (.sch version 1.1)
 
 * [Installation instructions](#install)
 * Categories
-  * [1-bit Multi-input Gates](1-bit%20Multi-input%20Gates)
-  * [2-bit Gates](2-bit%20Gates)
-  * [Decoders](Decoders)
-  * [Multiplexers](Multiplexers)
-  * [Memory](Memory)
-  * [Misc](Misc)
+  * [1-bit Multi-input Gates](1-bit%20Multi-input%20Gates/Readme.md)
+  * [2-bit Gates](2-bit%20Gates/Readme.md)
+  * [Decoders](Decoders/Readme.md)
+  * [Multiplexers](Multiplexers/Readme.md)
+  * [Memory](Memory/Readme.md)
+  * [Misc](Misc/Readme.md)
 
 ## <a name="install"></a>Installation instructions
 1. Download a copy of the schematic you are interested in and place it in the following folder:  
