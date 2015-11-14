@@ -16,7 +16,7 @@ Uses [3-input AND gates](https://github.com/jdryg/dls-schematics/tree/master/1-b
 [Schematic](1-bit%20MUX4.sch)  
 ![1-bit MUX4](images/1bit_mux4.png "1-bit MUX4")
 
-### <a name="1bit_mux4_alt"></a>1-bit MUX2 (alternative)
+### <a name="1bit_mux4_alt"></a>1-bit MUX4 (alternative)
 Uses a [2-to-4 Decoder](https://github.com/jdryg/dls-schematics/tree/master/Decoders#2to4_decoder)  
 [Schematic](1-bit%20MUX4%20(alt).sch)  
 ![1-bit MUX4 (alternative)](images/1bit_mux4_alt.png "1-bit MUX4 (alternative)")
