@@ -5,10 +5,11 @@ Memory components (latches and registers). Note that all registers use the [Risi
 * [SR Latch (Active High)](#sr_latch_ah)
 * [Gated SR Latch](#gated_sr_lath)
 * [D Latch](#d_latch)
-* [1-bit Register](#reg1)
+* [1-bit Register (D FlipFlop)](#reg1)
 * [2-bit Register](#reg2)
 * [4-bit Register](#reg4)
 * [8-bit Register](#reg8)
+* [JK FlipFlop with Async Preset/Clear](#jk_ff_async_control)
 
 ## Schematics
 
@@ -28,7 +29,7 @@ Memory components (latches and registers). Note that all registers use the [Risi
 [Schematic](D%20Latch.sch)  
 ![D Latch](images/d_latch.png "D Latch")
 
-### <a name="reg1"></a>1-bit Register
+### <a name="reg1"></a>1-bit Register (D FlipFlop)
 [Schematic](1-bit%20Register.sch)  
 ![1-bit Register](images/1bit_register.png "1-bit Register")
 
@@ -43,3 +44,7 @@ Memory components (latches and registers). Note that all registers use the [Risi
 ### <a name="reg8"></a>8-bit Register
 [Schematic](8-bit%20Register.sch)  
 ![8-bit Register](images/8bit_register.png "8-bit Register")
+
+### <a name="jk_ff_async_control"></a>JK FlipFlop with Async Preset/Clear
+[Schematic](JK%20FlipFlop%20(Async%20control).sch)  
+![JK FlipFlop with Async Preset/Clear](images/jk_ff_async_control.png "JK FlipFlop with Async Preset/Clear")
