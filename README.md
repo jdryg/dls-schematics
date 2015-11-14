@@ -21,12 +21,12 @@ Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.it
   * [Memory](Memory/Readme.md)
   * [Misc](Misc/Readme.md)
 
-## <a name="install"></a>Installation instructions (single schematic)
+## <a name="install"></a>Install a schematic
 1. Download a copy of the schematic you are interested in and place it in the following folder:  
 `%APPDATA%\DLS\schematics`
 2. Start DLS. You can load the new schematic via the `Load Schematic` button on the main toolbar.
 
-## <a name="install_package"></a>Installation instructions (single package)
+## <a name="install_package"></a>Install a package
 1. Download a copy of the package you are interested in, from the `packages` folder, and place it in the following folder:  
 `%APPDATA%\DLS\packages`
 2. Start DLS. The new package should be available in your library.
