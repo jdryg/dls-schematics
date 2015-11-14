@@ -13,6 +13,13 @@
   * [6-input](#or6)
   * [7-input](#or7)
   * [8-input](#or8)
+* NAND
+  * [3-input](#nand3)
+  * [4-input](#nand4)
+  * [5-input](#nand5)
+  * [6-input](#nand6)
+  * [7-input](#nand7)
+  * [8-input](#nand8)
 
 ## Schematics
 
@@ -63,3 +70,27 @@
 ### <a name="or8"></a>1-bit OR8
 [Schematic](1-bit%20OR8.sch)  
 ![OR8](images/or8.png "OR8")
+
+### <a name="nand3"></a>1-bit NAND3
+[Schematic](1-bit%20NAND3.sch)  
+![NAND3](images/nand3.png "NAND3")
+
+### <a name="nand4"></a>1-bit NAND4
+[Schematic](1-bit%20NAND4.sch)  
+![NAND4](images/nand4.png "NAND4")
+
+### <a name="nand5"></a>1-bit NAND5
+[Schematic](1-bit%20NAND5.sch)  
+![NAND5](images/nand5.png "NAND5")
+
+### <a name="nand6"></a>1-bit NAND6
+[Schematic](1-bit%20NAND6.sch)  
+![NAND6](images/nand6.png "NAND6")
+
+### <a name="nand7"></a>1-bit NAND7
+[Schematic](1-bit%20NAND7.sch)  
+![NAND7](images/nand7.png "NAND7")
+
+### <a name="nand8"></a>1-bit NAND8
+[Schematic](1-bit%20NAND8.sch)  
+![NAND8](images/nand8.png "NAND8")
