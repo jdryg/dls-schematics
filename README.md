@@ -5,6 +5,7 @@ Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.it
 
 1. All schematics in this repo require DLS v0.4 or greater (.sch version 1.1).
 2. I'll try to keep packages up-to-date with the schematics, but from time to time you may find some components missing from the packages. If this is the case, download the component schematic separately and install it on your PC.
+3. All schematics are self-contained. Even if a schematic uses a component from another category, you don't have to download the component's schematic separately.
 
 ## Table of Contents
 
