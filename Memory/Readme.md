@@ -14,6 +14,7 @@ Memory components (latches and registers). Note that all registers use the [Risi
 * [2-bit Register w/ Async reset](#reg2_ar)
 * [4-bit Register w/ Async reset](#reg4_ar)
 * [8-bit Register w/ Async reset](#reg8_ar)
+* [16x4-bit Register File w/ Async reset](#regfile16x4_ar)
 
 ## Schematics
 
@@ -68,3 +69,7 @@ Memory components (latches and registers). Note that all registers use the [Risi
 ### <a name="reg8_ar"></a>8-bit Register w/ Async reset
 [Schematic](8-bit%20Register%20(Async%20reset).sch)  
 ![8-bit Register w/ Async reset](images/8bit_register_ar.png "8-bit Register w/ Async reset")
+
+### <a name="regfile16x4_ar"></a>16x4-bit Register File w/ Async reset
+[Schematic](16x4-bit%20Register%20File%20(Async%20reset).sch)  
+![16x4-bit Register File w/ Async reset](images/16x4bit_register_file_ar.png "16x4-bit Register File w/ Async reset")
