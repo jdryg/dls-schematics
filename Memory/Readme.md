@@ -5,11 +5,15 @@ Memory components (latches and registers). Note that all registers use the [Risi
 * [SR Latch (Active High)](#sr_latch_ah)
 * [Gated SR Latch](#gated_sr_lath)
 * [D Latch](#d_latch)
-* [1-bit Register (D FlipFlop)](#reg1)
+* [JK FlipFlop with Async Preset/Clear](#jk_ff_async_control)
+* [1-bit Register](#reg1)
 * [2-bit Register](#reg2)
 * [4-bit Register](#reg4)
 * [8-bit Register](#reg8)
-* [JK FlipFlop with Async Preset/Clear](#jk_ff_async_control)
+* [1-bit Register w/ Async reset](#reg1_ar)
+* [2-bit Register w/ Async reset](#reg2_ar)
+* [4-bit Register w/ Async reset](#reg4_ar)
+* [8-bit Register w/ Async reset](#reg8_ar)
 
 ## Schematics
 
@@ -29,7 +33,11 @@ Memory components (latches and registers). Note that all registers use the [Risi
 [Schematic](D%20Latch.sch)  
 ![D Latch](images/d_latch.png "D Latch")
 
-### <a name="reg1"></a>1-bit Register (D FlipFlop)
+### <a name="jk_ff_async_control"></a>JK FlipFlop with Async Preset/Clear
+[Schematic](JK%20FlipFlop%20(Async%20control).sch)  
+![JK FlipFlop with Async Preset/Clear](images/jk_ff_async_control.png "JK FlipFlop with Async Preset/Clear")
+
+### <a name="reg1"></a>1-bit Register
 [Schematic](1-bit%20Register.sch)  
 ![1-bit Register](images/1bit_register.png "1-bit Register")
 
@@ -45,6 +53,18 @@ Memory components (latches and registers). Note that all registers use the [Risi
 [Schematic](8-bit%20Register.sch)  
 ![8-bit Register](images/8bit_register.png "8-bit Register")
 
-### <a name="jk_ff_async_control"></a>JK FlipFlop with Async Preset/Clear
-[Schematic](JK%20FlipFlop%20(Async%20control).sch)  
-![JK FlipFlop with Async Preset/Clear](images/jk_ff_async_control.png "JK FlipFlop with Async Preset/Clear")
+### <a name="reg1_ar"></a>1-bit Register w/ Async reset
+[Schematic](1-bit%20Register%20(Async%20reset).sch)  
+![1-bit Register w/ Async reset](images/1bit_register_ar.png "1-bit Register w/ Async reset")
+
+### <a name="reg2_ar"></a>2-bit Register w/ Async reset
+[Schematic](2-bit%20Register%20(Async%20reset).sch)  
+![2-bit Register w/ Async reset](images/2bit_register_ar.png "2-bit Register w/ Async reset")
+
+### <a name="reg4_ar"></a>4-bit Register w/ Async reset
+[Schematic](4-bit%20Register%20(Async%20reset).sch)  
+![4-bit Register w/ Async reset](images/4bit_register_ar.png "4-bit Register w/ Async reset")
+
+### <a name="reg8_ar"></a>8-bit Register w/ Async reset
+[Schematic](8-bit%20Register%20(Async%20reset).sch)  
+![8-bit Register w/ Async reset](images/8bit_register_ar.png "8-bit Register w/ Async reset")
