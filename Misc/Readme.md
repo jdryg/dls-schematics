@@ -2,6 +2,7 @@ Miscellaneous/helper components which do not fit in any other category.
 
 ## Table of contents
 * [Rising Edge Detector](#rising_edge)
+* [Clock Divider](#clk_div)
 * [1-to-2 Replicator](#1to2_replicator)
 * [1-to-4 Replicator](#1to4_replicator)
 * [1-to-8 Replicator](#1to8_replicator)
@@ -22,6 +23,10 @@ This circuit generates a pulse in the output, every time the clock input goes fr
 | 3 | 1     | 0     | 1     | 1     | **0** | **0** |
 
 ![Rising Edge Detector](images/rising_edge.png "Rising Edge Detector")
+
+### <a name="clk_div"></a>Clock Divider
+[Schematic](Clock%20Divider%20(Async%20reset).sch)
+![Clock Divider](images/clk_divider.png "Clock Divider")
 
 ### <a name="1to2_replicator"></a>1-to-2 Replicator
 [Schematic](1-to-2%20Replicator.sch)
