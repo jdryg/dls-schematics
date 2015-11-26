@@ -8,6 +8,10 @@ Multiplexers (or MUX) are circuits which select one of the N input signals and f
 * [1-bit MUX16](#1bit_mux16)
 * [2-bit MUX2](#2bit_mux2)
 * [2-bit MUX4](#2bit_mux4)
+* [4-bit MUX2](#4bit_mux2)
+* [4-bit MUX4](#4bit_mux4)
+* [4-bit MUX8](#4bit_mux8)
+* [4-bit MUX16](#4bit_mux16)
 
 ## Schematics
 
