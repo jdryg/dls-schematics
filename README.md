@@ -21,6 +21,7 @@ Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.it
   * [Comparators](Comparators/Readme.md)
   * [Memory](Memory/Readme.md)
   * [Misc](Misc/Readme.md)
+  * [i4004](i4004/Readme.md)
 
 ## <a name="install"></a>Install a schematic
 1. Download a copy of the schematic you are interested in and place it in the following folder:  
