@@ -1,5 +1,8 @@
 Memory components (latches and registers). Note that all registers use the [Rising Edge Detector](https://github.com/jdryg/dls-schematics/tree/master/Misc#rising_edge) from the Misc category.
 
+**NOTE**: The Rising Edge Detector is one way of achieving the desired functionality, which is based on the fact that each gate has a (propagation) delay. Theoretically it should work in real world circuits, but I'm not really sure.
+A better approach is to use 2 or 3 latches to detect the rising edge of the clock.
+
 ## Table of contents
 * [SR Latch (Active Low)](#sr_latch_al)
 * [SR Latch (Active High)](#sr_latch_ah)

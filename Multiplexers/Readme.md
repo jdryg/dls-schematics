@@ -1,5 +1,7 @@
 Multiplexers (or MUX) are circuits which select one of the N input signals and forward it to the output. 
 
+**NOTE:** From v0.6.0 and up, DLS supports tristate buffers. All circuits in this category can be modeled using tristate buffers.
+
 ## Table of contents
 * [1-bit MUX2](#1bit_mux2)
 * [1-bit MUX4](#1bit_mux4)
