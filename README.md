@@ -16,6 +16,7 @@ Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.it
   * [2-bit Gates](2-bit%20Gates/Readme.md)
   * [4-bit Gates](4-bit%20Gates/Readme.md)
   * [6502](6502/Readme.md)
+  * [74xx](74xx/Readme.md)
   * [Arithmetic](Arithmetic/Readme.md)
   * [Comparators](Comparators/Readme.md)
   * [Decoders](Decoders/Readme.md)

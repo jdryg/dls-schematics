@@ -1,3 +1,5 @@
+Exported from DLS v0.8.1
+
 ## Table of contents
 * [7400 - 4x NAND2](#7400)
 * [7402 - 4x NOR2](#7402)
