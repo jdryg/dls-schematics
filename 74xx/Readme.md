@@ -13,6 +13,7 @@ Exported from DLS v0.8.1
 * [7427 - 3x NOR3](#7427)
 * [7430 - 1x NAND8](#7430)
 * [7432 - 4x OR2](#7432)
+* [7442 - BCD to Decimal Decoder](#7442)
 * [7469 - 2x 4-bit Binary counter](#7469)
 * [7474 - 2x D FlipFlop](#7474)
 * [7485 - 4-bit Mag. Comparator](#7485)
@@ -68,6 +69,10 @@ Exported from DLS v0.8.1
 ### <a name="7432"></a>7432 - 4x OR2
 [Schematic](7432.sch)  
 ![7432](images/7432.png "7432")
+
+### <a name="7442"></a>7442 - BCD to Decimal decoder
+[Schematic](7442.sch)  
+![7442](images/7442.png "7442")
 
 ### <a name="7469"></a>7469 - 2x 4-bit Binary counter
 [Schematic](7469.sch)  
