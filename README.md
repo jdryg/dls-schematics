@@ -12,9 +12,6 @@ Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.it
 * [Install a schematic](#install)
 * [Install a package](#install_package)
 * Categories
-  * [1-bit Multi-input Gates](1-bit%20Multi-input%20Gates/Readme.md)
-  * [2-bit Gates](2-bit%20Gates/Readme.md)
-  * [4-bit Gates](4-bit%20Gates/Readme.md)
   * [6502](6502/Readme.md)
   * [74xx](74xx/Readme.md)
   * [Arithmetic](Arithmetic/Readme.md)
