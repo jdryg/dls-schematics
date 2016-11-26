@@ -21,6 +21,7 @@ Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.it
   * [Memory](Memory/Readme.md)
   * [Multiplexers](Multiplexers/Readme.md)
   * [Misc](Misc/Readme.md)
+  * [Sorting Networks](SortingNetworks/Readme.md)
 
 ## <a name="install"></a>Install a schematic
 1. Download a copy of the schematic you are interested in and place it in the following folder:  
