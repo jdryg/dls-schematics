@@ -7,7 +7,14 @@ An [i8080](https://en.wikipedia.org/wiki/Intel_8080) cycle accurable CPU build f
 [Schematic](i8080 System.sch)
 ![i8080 System](images/i8080_system.png "i8080 System")
 
+### i8080 CPU
 ![i8080 CPU](images/i8080_cpu.png "i8080 CPU")
+
+### i8080 ALU
 ![i8080 ALU](images/i8080_alu.png "i8080 Arithmetic/Logic Unit")
+
+### i8080 Register File
 ![i8080 Register File](images/i8080_rf.png "i8080 Register File")
+
+### i8080 Internal Data Bus
 ![i8080 Internal Data Bus](images/i8080_internal_data_bus.png "i8080 Internal Data Bus")
