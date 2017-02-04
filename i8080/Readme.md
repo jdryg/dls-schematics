@@ -7,7 +7,7 @@ An [i8080](https://en.wikipedia.org/wiki/Intel_8080) cycle accurable CPU build f
 [Schematic](i8080 System.sch)
 ![i8080 System](images/i8080_system.png "i8080 System")
 
-### i8080 CPU [Large version](https://github.com/jdryg/dls-schematics/raw/master/i8080/images/i8080_Large.png)
+### i8080 CPU [Large version](https://raw.githubusercontent.com/jdryg/dls-schematics/raw/master/i8080/images/i8080_large.png)
 ![i8080 CPU](images/i8080_cpu.png "i8080 CPU")
 
 ### i8080 ALU
