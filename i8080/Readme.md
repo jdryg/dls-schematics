@@ -1,4 +1,4 @@
-An [i8080](https://en.wikipedia.org/wiki/Intel_8080) cycle accurable CPU build from logic gates and ROMs. 
+An [i8080](https://en.wikipedia.org/wiki/Intel_8080) cycle accurate CPU build from logic gates and ROMs. 
 
 **NOTE**: Requires DLS 0.13.0 and up (schematic version 2.1).
 
